@@ -2825,6 +2825,17 @@ section.lazy-placeholder:after {
 .cid-sd8E3pWcWN .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-siGlLxpXFs {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #046b07;
+}
+.cid-siGlLxpXFs P {
+  color: #767676;
+}
+.cid-siGlLxpXFs H3 {
+  color: #ffffff;
+}
 .cid-sdb87JmVnS .navbar {
   background: #046b07;
   transition: none;
